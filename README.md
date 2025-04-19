@@ -25,4 +25,4 @@ Welcome to the **User Social Media Analysis** repository! This project leverages
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/haroontrailblazer/User_Behavioral_Analysis.git
+   git clone https://github.com/harshineeshree/User_Behavioral_Analysis.git
